@@ -12,7 +12,7 @@ const Header = (props) => {
       </header>
 
       <div className={styles["main-image"]}>
-        <img src={mealsImages} alt="Collection of delicious foods!" />
+        <img src={mealsImages} alt="Collection of delicious food!" />
       </div>
     </>
   );
